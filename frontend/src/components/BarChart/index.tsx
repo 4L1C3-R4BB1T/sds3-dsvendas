@@ -57,7 +57,7 @@ const BarChart = () => {
             bar: {
                 horizontal: true,
             }
-        },
+        }
     };
 
     return (
