@@ -25,7 +25,7 @@ A aplicação consiste em exibir um dashboard a partir de dados fornecidos por u
 - React
 ### Deploy
 - Back-end: Heroku
-- Front-end Web: Netlify
+- Front-end: Netlify
 - Banco de Dados: PostgreSQL
 
 # Como executar o projeto
