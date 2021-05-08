@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="https://github.com/4L1C3-R4BB1T/sds3-dsvendas/blob/main/_assets/logo.svg" width="240px" />
-</p>
-
+# DS Vendas
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/4L1C3-R4BB1T/sds3-dsvendas/blob/main/LICENSE) 
 
 # Sobre o projeto
