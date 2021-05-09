@@ -7,8 +7,8 @@ DS Vendas é uma aplicação construída durante a 3ª edição da **Semana DevS
 A aplicação consiste em exibir um dashboard a partir de dados fornecidos por um back-end construído com Spring Boot.
 
 ## Layout 
-<img height="440" src="https://github.com/4L1C3-R4BB1T/sds3-dsvendas/raw/main/_assets/web1.png" alt="Web 1" title="Tela início">
-<img height="440" src="https://github.com/4L1C3-R4BB1T/sds3-dsvendas/raw/main/_assets/web2.png" alt="Web 2" title="Tela dashboard">
+![Web 1](https://github.com/4L1C3-R4BB1T/sds3-dsvendas/raw/main/_assets/web1.png "Tela início")
+![Web 2](https://github.com/4L1C3-R4BB1T/sds3-dsvendas/raw/main/_assets/web2.png "Tela dashboard")
 
 ## Modelo Conceitual
 ![Modelo Conceitual](https://github.com/4L1C3-R4BB1T/sds3-dsvendas/raw/main/_assets/modelo-conceitual.png)
